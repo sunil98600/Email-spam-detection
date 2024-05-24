@@ -22,9 +22,8 @@ The goal of this project is to classify email messages as spam or not spam using
 To get started, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/spam-mail-classification.git
+git clone https://github.com/sunil98600/Email-spam-detection/blob/main/email-sapm-detection.py
 cd spam-mail-classification
-pip install -r requirements.txt
 ```
 
 ## Usage
@@ -44,7 +43,6 @@ python spam_classification.py
 spam-mail-classification/
 ├── spam_classification.py
 ├── spam.csv
-├── requirements.txt
 ├── README.md
 ```
 
